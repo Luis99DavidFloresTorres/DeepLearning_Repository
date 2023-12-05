@@ -11,7 +11,7 @@ Worked with real dataset.
 Chatbot for CEPI using LLM with different techniques train like:
 Adapters.
 LoRa.
-Retrain all the model with different output
+Retrain all the model with different outputs
 
 
 # Reasons for use different techniques.
