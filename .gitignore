@@ -9,3 +9,7 @@ README.md
 modelo.pth
 modelo2.pth
 modelo_entrenado3.pkl
+adapter_chatbot
+pytorch_adatper.bin
+pytorch_model_head.bin
+output
