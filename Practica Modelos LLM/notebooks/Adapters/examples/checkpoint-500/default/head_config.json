@@ -1,0 +1,19 @@
+{
+  "config": {
+    "activation_function": "gelu",
+    "bias": true,
+    "embedding_size": 768,
+    "head_type": "masked_lm",
+    "label2id": null,
+    "layer_norm": true,
+    "layers": 2,
+    "shift_labels": false,
+    "vocab_size": 119547
+  },
+  "hidden_size": 768,
+  "model_class": "BertAdapterModel",
+  "model_name": "bert-base-multilingual-cased",
+  "model_type": "bert",
+  "name": "default",
+  "version": "0.1.0"
+}
